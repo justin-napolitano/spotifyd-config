@@ -1,12 +1,27 @@
 ---
-slug: "github-spotifyd-config"
-title: "spotifyd-config"
-repo: "justin-napolitano/spotifyd-config"
-githubUrl: "https://github.com/justin-napolitano/spotifyd-config"
-generatedAt: "2025-11-23T09:39:10.329646Z"
-source: "github-auto"
+slug: github-spotifyd-config
+title: Configuration Reference for spotifyd Linux Audio Daemon
+repo: justin-napolitano/spotifyd-config
+githubUrl: https://github.com/justin-napolitano/spotifyd-config
+generatedAt: '2025-11-23T09:39:10.329646Z'
+source: github-auto
+summary: >-
+  Reusable spotifyd configuration file for Linux with authentication, audio backend settings, and
+  MPRIS media control integration.
+tags:
+  - spotifyd
+  - linux-audio
+  - audio-configuration
+  - mpris
+  - authentication
+  - alsa
+seoPrimaryKeyword: spotifyd configuration
+seoSecondaryKeywords:
+  - linux audio setup
+  - mpris integration
+  - alsa audio backend
+seoOptimized: true
 ---
-
 
 # spotifyd-config: Technical Overview and Implementation Notes
 
@@ -54,3 +69,4 @@ Key configuration elements include:
 ## Conclusion
 
 This repository serves as a practical reference for configuring spotifyd with essential options for authentication, audio output, and media control integration. It balances simplicity with flexibility, providing a foundation that can be extended or secured further depending on user needs. When returning to this project, focus on the configuration parameters and their interactions with system services and audio hardware to troubleshoot or enhance functionality.
+
