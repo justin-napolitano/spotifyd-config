@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/spotifyd-config
 generatedAt: '2025-11-24T21:36:24.852Z'
 source: github-auto
 summary: >-
-  A repository for configuring spotifyd with customizable settings for user
-  credentials and audio backends.
+  A repository for configuring spotifyd with customizable settings for user credentials and audio
+  backends.
 tags:
   - spotifyd
   - ALSA
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - spotifyd installation guide
   - spotifyd project structure
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -90,4 +90,5 @@ Adjust the path if you place the config file elsewhere.
 - Provide example configurations for different operating systems.
 - Automate deployment or installation scripts for easier setup.
 - Include documentation on troubleshooting common errors related to audio devices or authentication.
+
 
