@@ -1,19 +1,29 @@
 ---
 slug: github-spotifyd-config
 id: github-spotifyd-config
-title: spotifyd-config
+title: Spotifyd Configuration Repository for Custom Audio Settings
 repo: justin-napolitano/spotifyd-config
 githubUrl: https://github.com/justin-napolitano/spotifyd-config
 generatedAt: '2025-11-24T21:36:24.852Z'
 source: github-auto
 summary: >-
-  A configuration repository for spotifyd, a lightweight Spotify client daemon.
-  This repo contains a sample and customizable configuration file to enable
-  spotifyd to run with specified user credentials and audio settings.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A repository for configuring spotifyd with customizable settings for user
+  credentials and audio backends.
+tags:
+  - spotifyd
+  - ALSA
+  - D-Bus
+  - configuration
+  - audio backend
+  - Linux
+seoPrimaryKeyword: spotifyd configuration
+seoSecondaryKeywords:
+  - spotifyd setup
+  - audio settings for spotifyd
+  - spotifyd authentication methods
+  - spotifyd installation guide
+  - spotifyd project structure
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
