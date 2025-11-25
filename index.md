@@ -1,13 +1,13 @@
 ---
 slug: github-spotifyd-config
-title: Configuration Reference for spotifyd Linux Audio Daemon
+title: 'Configuring spotifyd for Linux: A Practical Guide'
 repo: justin-napolitano/spotifyd-config
 githubUrl: https://github.com/justin-napolitano/spotifyd-config
 generatedAt: '2025-11-23T09:39:10.329646Z'
 source: github-auto
 summary: >-
-  Reusable spotifyd configuration file for Linux with authentication, audio backend settings, and
-  MPRIS media control integration.
+  Learn how to set up a reusable configuration for spotifyd, simplifying Spotify
+  playback on Linux systems.
 tags:
   - spotifyd
   - linux-audio
@@ -15,18 +15,28 @@ tags:
   - mpris
   - authentication
   - alsa
+  - linux
+  - configuration
+  - audio
+  - MPRIS
+  - ALSA
 seoPrimaryKeyword: spotifyd configuration
 seoSecondaryKeywords:
-  - linux audio setup
-  - mpris integration
-  - alsa audio backend
+  - spotifyd setup
+  - Linux audio playback
+  - MPRIS integration
+  - audio backend configuration
+  - spotifyd INI file
 seoOptimized: true
 topicFamily: devtools
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is focused on the technical setup and configuration of a Linux audio daemon (spotifyd),
-  covering system and user configuration files, authentication, and audio backend details, aligning
-  well with development environment setup and system configuration topics in devtools.
+  The post is focused on the technical setup and configuration of a Linux audio
+  daemon (spotifyd), covering system and user configuration files,
+  authentication, and audio backend details, aligning well with development
+  environment setup and system configuration topics in devtools.
+kind: project
+id: github-spotifyd-config
 ---
 
 # spotifyd-config: Technical Overview and Implementation Notes
